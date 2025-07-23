@@ -280,18 +280,11 @@
     "text": "Using images as input\n\nModern models are pretty good at this—but this frontier is especially jagged\nCan understand both photographs and plots\nExamples for R and Chatlas are in your repo as 05-vision*\nSee docs for LangChain multimodal, OpenAI vision"
   },
   {
-    "objectID": "intro.html#your-turn",
-    "href": "intro.html#your-turn",
-    "title": "",
-    "section": "Your Turn",
-    "text": "Your Turn\n\nYour name, team, and role\nHow have you used LLMs/AI tools up until now?\nWhat is your skepticism/enthusiasm score (1 to 5)?"
-  },
-  {
     "objectID": "intro.html#the-plan",
     "href": "intro.html#the-plan",
     "title": "",
     "section": "The Plan",
-    "text": "The Plan\n\nNow: Quick Start course on LLMs. You will leave having used a Chat API.\nNext 48 hours: Hack on stuff! Minimum four hours of effort. “Rules” on the next slide.\n\nWe’ll be continuously monitoring #hackathon-20\n\nThursday: Show & tell, share lessons learned, reflections.\nPost-hackathon:\n\nKeep hacking! (optional)\nThink about how AI might apply to your team\nBe a resource for others around you"
+    "text": "The Plan\n\nNow: Quick Start course on LLMs. You will leave having used a Chat API.\nNext 2 weeks: Hack on stuff! Minimum four hours of effort. “Rules” on the next slide.\nTBD: Show & tell, share lessons learned, reflections.\nPost-hackathon:\n\nKeep hacking! (optional)\nThink about how AI might apply to your team\nBe a resource for others around you"
   },
   {
     "objectID": "intro.html#hack-on-stuff",
@@ -320,13 +313,6 @@
     "title": "",
     "section": "Let It Rip",
     "text": "Let It Rip\n\nAll that said… also feel free to throw down, and make something super cool!\n\n\nFour hours is the minimum, not the maximum—if you’re having fun, keep going!"
-  },
-  {
-    "objectID": "intro.html#a-caveat-from-it",
-    "href": "intro.html#a-caveat-from-it",
-    "title": "",
-    "section": "A Caveat From IT",
-    "text": "A Caveat From IT\nNo proprietary code or data is allowed to be sent to any LLM service, with the below exceptions.\n\nGoogle NotebookLM is allowed.\nAWS Bedrock is allowed, and it has Anthropic models. (Instructions)\nRunning any local model is allowed, we can help you with this as well.\nSending open source code to any service is allowed."
   },
   {
     "objectID": "02-tools-prompt.html",
