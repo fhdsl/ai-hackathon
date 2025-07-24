@@ -25,7 +25,7 @@
     "href": "quickstart.html#llm-conversations-are-http-requests",
     "title": "LLM Quick Start",
     "section": "LLM Conversations are HTTP Requests",
-    "text": "LLM Conversations are HTTP Requests\n\nEach interaction is a separate HTTP API request\nThe API server is entirely stateless (despite conversations being inherently stateful!)"
+    "text": "LLM Conversations are HTTP Requests\n\nEach interaction is a separate HTTP API request\nThe API server is entirely stateless (despite conversations being inherently stateful!)\nMore about API requests"
   },
   {
     "objectID": "quickstart.html#example-conversation",
@@ -137,7 +137,7 @@
     "href": "quickstart.html#what-is-tool-calling",
     "title": "LLM Quick Start",
     "section": "What is Tool Calling?",
-    "text": "What is Tool Calling?\n\nAllows LLMs to interact with other systems\nSounds complicated? It isn’t!\nSupported by most of the newest LLMs, but not all"
+    "text": "What is Tool Calling?\n\nTool calling in the context of large language models (LLMs) refers to the ability of the model to generate structured output that can be used to invoke external tools or functions, rather than just generating natural language text.\n\n\nIt allows LLMs to interact with external systems, APIs, or databases to perform actions, retrieve specific information, or automate tasks.\n\n\nEssentially, the model identifies when a tool is needed, generates the appropriate input parameters for that tool, and the user or application then uses that information to execute the tool.\n\n\nAllows LLMs to interact with other systems\nSounds complicated? It isn’t!\nSupported by most of the newest LLMs, but not all"
   },
   {
     "objectID": "quickstart.html#how-it-works",
