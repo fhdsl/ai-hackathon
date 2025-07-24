@@ -11,7 +11,7 @@
     "href": "quickstart.html#setup",
     "title": "LLM Quick Start",
     "section": "Setup",
-    "text": "Setup\nSetup: Local\n\nClone https://github.com/jcheng5/llm-quickstart\nGrab your OpenAI/Anthropic API keys; see the thread in #hackathon-20\nFor R: install.packages(c(\"ellmer\", \"shinychat\", \"dotenv\", \"shiny\", \"paws.common\", \"magick\", \"beepr\"))\nFor Python: pip install -r requirements.txt"
+    "text": "Setup\nSetup: Local\n\nClone https://github.com/jcheng5/llm-quickstart\nNeed OpenAI/Anthropic API keys (for discussion)\nFor R: install.packages(c(\"ellmer\", \"shinychat\", \"dotenv\", \"shiny\", \"paws.common\", \"magick\", \"beepr\"))\nFor Python: pip install -r requirements.txt"
   },
   {
     "objectID": "quickstart.html#framing-llms",
@@ -67,7 +67,7 @@
     "href": "quickstart.html#tokens",
     "title": "LLM Quick Start",
     "section": "Tokens",
-    "text": "Tokens\n\nFundamental units of information for LLMs\nWords, parts of words, or individual characters\n\n“hello” → 1 token\n“unconventional” → 3 tokens: un|con|ventional\n4K video frame at full res → 6885 tokens\n\nExample with OpenAI Tokenizer\nImportant for:\n\nModel input/output limits\nAPI pricing is usually by token (see calculator)"
+    "text": "Tokens"
   },
   {
     "objectID": "quickstart.html#instructions",
@@ -327,5 +327,12 @@
     "title": "",
     "section": "",
     "text": "You are an AI assistant designed to help users with questions about data analysis with R. To answer user questions, you can provide code examples in R. Only answer questions related to data analysis and R."
+  },
+  {
+    "objectID": "quickstart.html#tokens-1",
+    "href": "quickstart.html#tokens-1",
+    "title": "LLM Quick Start",
+    "section": "Tokens",
+    "text": "Tokens\n\nFundamental units of information for LLMs\nWords, parts of words, or individual characters\n\n“hello” → 1 token\n“unconventional” → 3 tokens: un|con|ventional\n4K video frame at full res → 6885 tokens\n\nExample with OpenAI Tokenizer\nImportant for:\n\nModel input/output limits\nAPI pricing is usually by token (see calculator)"
   }
 ]
