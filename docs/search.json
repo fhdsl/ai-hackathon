@@ -11,7 +11,7 @@
     "href": "quickstart.html#setup",
     "title": "LLM Quick Start",
     "section": "Setup",
-    "text": "Setup\nOption 1: Cloud\n\nLog in to https://workbench.posit.it/ and start a session in your IDE of choice\n\nWe recommend RStudio for R, and Positron for R or Python\n\nClone https://github.com/jcheng5/llm-quickstart\nOpen llm-quickstart as a Project (RStudio) or Folder (Positron) in your IDE\nGrab your OpenAI/Anthropic API keys; see the thread in #hackathon-20\n\nOption 2: Local\n\nClone https://github.com/jcheng5/llm-quickstart\nGrab your OpenAI/Anthropic API keys; see the thread in #hackathon-20\nFor R: install.packages(c(\"ellmer\", \"shinychat\", \"dotenv\", \"shiny\", \"paws.common\", \"magick\", \"beepr\"))\nFor Python: pip install -r requirements.txt"
+    "text": "Setup\nSetup: Local\n\nClone https://github.com/jcheng5/llm-quickstart\nGrab your OpenAI/Anthropic API keys; see the thread in #hackathon-20\nFor R: install.packages(c(\"ellmer\", \"shinychat\", \"dotenv\", \"shiny\", \"paws.common\", \"magick\", \"beepr\"))\nFor Python: pip install -r requirements.txt"
   },
   {
     "objectID": "quickstart.html#framing-llms",
@@ -284,14 +284,14 @@
     "href": "intro.html#the-plan",
     "title": "",
     "section": "The Plan",
-    "text": "The Plan\n\nNow: Quick Start course on LLMs. You will leave having used a Chat API.\nNext 2 weeks: Hack on stuff! Minimum four hours of effort. “Rules” on the next slide.\nTBD: Show & tell, share lessons learned, reflections.\nPost-hackathon:\n\nKeep hacking! (optional)\nThink about how AI might apply to your team\nBe a resource for others around you"
+    "text": "The Plan\n\nNow: Quick Start course on LLMs.\nNext 2 weeks: Hack on stuff! Minimum four hours of effort. “Rules” on the next slide.\nTBD: Show & tell, share lessons learned, reflections.\nPost-hackathon:\n\nKeep hacking! (optional)\nThink about how AI might apply to your team\nBe a resource for others around you"
   },
   {
     "objectID": "intro.html#hack-on-stuff",
     "href": "intro.html#hack-on-stuff",
     "title": "",
     "section": "Hack On Stuff",
-    "text": "Hack On Stuff\n\nDoes NOT have to be relevant to your day job, or Posit, or data science.\nThis exercise is about learning and engagement, not ROI.\nDoes NOT have to be a finished product/demo/app/API.\nShowing some things you did in a notebook is fine as long as YOU found it interesting.\nDoes NOT have to use Posit products.\nYou may use any framework, any language, any service that you have access to."
+    "text": "Hack On Stuff\n\nDoes NOT have to be relevant to your day job or data science.\nThis exercise is about learning and engagement, not ROI.\nDoes NOT have to be a finished product/demo/app/API.\nShowing some things you did in a notebook is fine as long as YOU found it interesting.\nDoes NOT have to use Posit products.\nYou may use any framework, any language, any service that you have access to."
   },
   {
     "objectID": "intro.html#hack-on-stuff-1",
